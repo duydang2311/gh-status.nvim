@@ -38,3 +38,6 @@ vim.keymap.set('n', '<leader>gh', function()
 end, { noremap = true, silent = false })
 ```
 
+![image](https://user-images.githubusercontent.com/34796192/198901059-03f03c95-489d-43a1-91e7-ee231bbd77cf.png)
+
+
