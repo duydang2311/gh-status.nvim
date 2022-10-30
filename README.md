@@ -27,7 +27,7 @@ gh_status.setup({
 
 As for now, you have to manually invoke the function to update your status.
 
-You can, e.g. either map `changeUserStatus` to a key to set the status message to your current editing file,
+You can, e.g. either map `changeUserStatus` to a key to set your status,
 or combine it with autocmd.
 
 ```lua
