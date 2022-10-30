@@ -14,6 +14,10 @@ Plug 'duydang2311/gh-status.nvim'
 
 ## Setup
 
+1. Generate a token with `user` scope fully enabled.
+
+2. Pass the credentials to `setup` function.
+
 ```lua
 local gh_status = require'gh-status'
 
